@@ -1,0 +1,3 @@
+Model,Turnout MAE (pp),Turnout RMSE (pp)
+Persistence baseline,18.559874346019978,18.867855121504693
+Random Forest,2.744728163109957,3.4456852784008127

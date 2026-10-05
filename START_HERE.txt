@@ -1,0 +1,11 @@
+Complete code bundle based on the uploaded notebook and final dashboard ZIP.
+The analysis loading paths were adapted to the packaged data.
+Later notebook additions discussed in chat were not uploaded and are not in this notebook.
+
+1. Extract the ZIP.
+2. Open a terminal inside election_analytics.
+3. Run: python -m pip install -r requirements.txt
+4. Run dashboard: python -m streamlit run app.py
+5. To recompute: python analysis.py (also requires IPython).
+Alternatively open analysis.ipynb in Jupyter or Colab. In Colab upload/extract the folder and set the working directory to it first.
+The estimates are conditional scenarios, not confirmed 2026 election results.
